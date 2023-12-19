@@ -28,7 +28,6 @@ It's been a long crazy ride. Let's keep in touch! :)
 <p>📫 Reach me at ac@andreascy.com</p>
 <p>I regularly write articles on <a href="https://officialandreascy.blogspot.com">THE OFFICIAL ANDREASCY</a></p>
 <p>Some of my projects are available on <a href="https://linktr.ee/andreascy">Linktr.ee</a></p>
-<p>Know about my experiences <a href="https://www.linkedin.com/in/andreas-christodoulou">here</a></p>
 <p>⚡ Fun Fact: I am me and I am free.</p>
 
 ## 💻 Skills
