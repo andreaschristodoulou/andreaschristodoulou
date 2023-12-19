@@ -32,11 +32,6 @@ It's been a long crazy ride. Let's keep in touch! :)
 <p>⚡ Fun Fact: I am me and I am free</p>
 <p>📧 If you want to say hi, you can reach me at ac@andreascy.com</p>
 
-# Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
