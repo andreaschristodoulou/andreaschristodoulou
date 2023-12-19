@@ -4,7 +4,7 @@
 
 Andreas Christodoulou (best known as "andreascy") is a Belgium based Entrepreneur and Investor with a strong sense of purpose, vision, and personal control. He works with companies and like-minded achievers providing products and services that improve business. He is driven by their overall success.
 
-## 💫 Liitle Bit More About Me
+## 💫 A Little Bit About Me
 <p>🔭 I'm currently working on AC / OA / FW</p>
 <p>💬 Ask me about Sustainable Change</p>
 <p>📫 How to reach me? ac@andreascy.com</p>
