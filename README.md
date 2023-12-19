@@ -23,12 +23,14 @@ It's been a long crazy ride. Let's keep in touch! :)
 -Andreas
 
 ## 💫 A Little Bit More About Me
-<p>🔭 I'm currently working on myself!</p>
-<p>💬 Ask me about Sustainable Change</p>
-<p>📫 Reach me at ac@andreascy.com</p>
-<p>I regularly write articles on <a href="https://officialandreascy.blogspot.com">THE OFFICIAL ANDREASCY</a></p>
-<p>Some of my projects are available on <a href="https://linktr.ee/andreascy">Linktr.ee</a></p>
+
+<p>🔑 I run a number of online businesses in the tech and media industry. I've been doing it for 2 decades.</p>
+<p>🔭 I enjoy helping others! I've worked with many successful individuals and companies through the years, including luxury and premium brands.</p>
+<p>🌞 Ask me not what I have, but what I am. Because, I am what I've overcome.</p>
+<p>✍🏻 I regularly write articles on <a href="https://officialandreascy.blogspot.com">THE OFFICIAL ANDREASCY</a></p>
+<p>🌴 Some of my projects are available on <a href="https://linktr.ee/andreascy">Linktr.ee</a></p>
 <p>⚡ Fun Fact: I am me and I am free.</p>
+<p>📧 If you want to say hi, reach me at ac@andreascy.com</p>
 
 ## 💻 Skills
 <p>
