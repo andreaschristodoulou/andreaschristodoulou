@@ -1,8 +1,28 @@
-# Hi there 👋,
+# Welcome fellow hustler! 👋,
 
-Andreas Christodoulou (best known as "andreascy") is a Belgium based Entrepreneur and Investor with a strong sense of purpose, vision, and personal control. He works with companies and like-minded achievers providing products and services that improve business. He is driven by their overall success.
+I find it very enjoyable that you are now part of my GitHub network. I fancy making new connections, both within my own field and elsewhere. 
 
-## 💫 A Little Bit About Me
+Blocks I've Been Around: 
+
+Learned through blood, sweat and tears. Wiser than my years, appreciative of the genuine side of things, never the superficial. Loved a few, lived a little, lost a lot, gained some knowledge, I think... and I like it!! ...still!
+
+A multi-passionate Entrepreneur & Author with a strong sense of purpose, vision, and personal control. Having an eye for knowledge, and ear for listening, I enjoy research and writing on articles about tech and other topics on various domains.
+
+I live by courage, having a sense of responsibility, a mind for self-improvement, being motivated and passionate, embracing justice and equality in people. The power of gratitude and empathy for others guides my path, whereas staying positive, is the best approach to overcome even the hardest of obstacles.
+
+On the other hand, being pragmatic, the intention is to fulfill my vision and mission to thrive, and help others thrive and succeed, through establishing a new paradigm for people with entrepreneurial skills. Towards this end, I work with enterprises, and other achievers, providing products and services that improve businesses and people's lives. 
+
+Thankful that my life is a beautiful mess and a lesson every day, while what I appreciate the most is how each any every person dedicates attention and time to interact with me. Your ongoing support and being a valued friend makes all the difference! I hope you find meaning in my shares, so much so, as I find value and meaning in your presence and contribution. 
+
+Lastly, I always like networking with good people that are hustle driven. Looking forward to learning more about you as time goes by. Please contact me if you ever need any help or have a suggestion.
+
+It's been a long crazy ride. Let's keep in touch! :)
+
+(P.S: Below are links to projects I'm proud of. Kindly join us in our vision and keep an eye out for further updates).
+
+-Andreas
+
+## 💫 A Little Bit More About Me
 <p>🔭 I'm currently working on AC / OA / FW</p>
 <p>💬 Ask me about Sustainable Change</p>
 <p>📫 How to reach me? ac@andreascy.com</p>
