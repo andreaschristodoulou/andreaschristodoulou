@@ -23,7 +23,7 @@ It's been a long crazy ride. Let's keep in touch! :)
 -Andreas
 
 ## 💫 A Little Bit More About Me
-<p>🔭 I'm currently working on AC / OA / FW</p>
+<p>🔭 I'm currently working on myself!</p>
 <p>💬 Ask me about Sustainable Change</p>
 <p>📫 Reach me at ac@andreascy.com</p>
 <p>I regularly write articles on <a href="https://officialandreascy.blogspot.com">THE OFFICIAL ANDREASCY</a></p>
