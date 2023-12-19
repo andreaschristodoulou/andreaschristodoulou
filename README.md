@@ -89,7 +89,7 @@ It's been a long crazy ride. Let's keep in touch! :)
 <a href="https://codeforces.com/profile/andreascy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
+## 🌟 GitHub Badges
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
@@ -103,6 +103,6 @@ It's been a long crazy ride. Let's keep in touch! :)
 <p><img src="https://github-profile-trophy.vercel.app/?username=andreaschristodoulou">
 </p>
 
-## 📊 Github Status
+## 📊 GitHub Status
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andreaschristodoulou"><p>
