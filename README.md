@@ -14,9 +14,9 @@ On the other hand, being pragmatic, the intention is to fulfill my vision and mi
 
 Thankful that my life is a beautiful mess and a lesson every day, while what I appreciate the most is how each any every person dedicates attention and time to interact with me. Your ongoing support and being a valued friend makes all the difference! I hope you find meaning in my shares, so much so, as I find value and meaning in your presence and contribution. 
 
-Lastly, I always like networking with good people that are hustle driven. Looking forward to learning more about you as time goes by. Please contact me if you ever need any help or have a suggestion.
+Lastly, I always like networking with people that are driven. Looking forward to learning more about you as time goes by. Please contact me if you ever need any help or have a suggestion.
 
-It's been a long crazy ride. Let's keep in touch! :)
+It's been a long, crazy ride. Let's keep in touch! :)
 
 (P.S: Below are links to projects I'm proud of. Kindly join us in our vision and keep an eye out for further updates).
 
