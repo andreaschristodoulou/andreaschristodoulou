@@ -6,7 +6,7 @@ Blocks I've Been Around:
 
 Learned through blood, sweat and tears. Wiser than my years, appreciative of the genuine side of things, never the superficial. Loved a few, lived a little, lost a lot, gained some knowledge, I think... and I like it!! ...still!
 
-A multi-passionate Entrepreneur & Author with a strong sense of purpose, vision, and personal control. Having an eye for knowledge, and ear for listening, I enjoy research and writing on articles about tech and other topics on various domains.
+A multi-passionate Entrepreneur with a strong sense of purpose, vision, and personal control. Having an eye for knowledge, and ear for listening, I enjoy research and writing on articles about tech and other topics on various domains.
 
 I live by courage, having a sense of responsibility, a mind for self-improvement, being motivated and passionate, embracing justice and equality in people. The power of gratitude and empathy for others guides my path, whereas staying positive, is the best approach to overcome even the hardest of obstacles.
 
