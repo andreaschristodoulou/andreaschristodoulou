@@ -30,7 +30,7 @@ It's been a long, crazy ride. Let's keep in touch! :)
 <p>✍🏻 I regularly write articles on <a href="https://officialandreascy.blogspot.com">THE OFFICIAL ANDREASCY</a></p>
 <p>🌴 Some of my projects URLs are available on <a href="https://linktr.ee/andreascy">Linktr.ee</a></p>
 <p>⚡ Fun Fact: I am me and I am free</p>
-<p>📧 If you want to say hi, you can reach me at ac@andreascy.com</p>
+<p>📧 If you want to say hi, you can reach me at https://m.me/andreascyfan</p>
 
 ## 💻 Skills
 <p>
