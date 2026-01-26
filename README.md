@@ -34,9 +34,9 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 ## 🎖️ Certifications
 
-<p> <a href="https://isni.org/isni/000000052961680X">ISNI Certified (International Standard Name Identifier - ISO 27729 / ISNI International Agency, Jan 2026)</a> <p>
-<p> <a href="https://www.google.com/partners/#i_profile;idtf=118415746933417749928;">Google Ads (Former AdWords) Certified (Google Partners, Oct 2014)</a> <p>
-<p> <a href="https://www.scoop.it/u/official-andreascy">Scoop.it Top Rated "Historical" Curator (Scoop.it, Jan 2014)</a> <p>
+<p> <a href="https://isni.org/isni/000000052961680X">ISNI Certified </a>(International Standard Name Identifier - ISO 27729 / ISNI International Agency, Jan 2026) <p>
+<p> <a href="https://www.google.com/partners/#i_profile;idtf=118415746933417749928;">Google Ads (Former AdWords) Certified</a>(Google Partners, Oct 2014) <p>
+<p> <a href="https://www.scoop.it/u/official-andreascy">Scoop.it Top Rated "Historical" Curator </a>(Scoop.it, Jan 2014) <p>
 
 ## 📢 As Seen On
 
