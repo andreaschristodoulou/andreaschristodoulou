@@ -34,7 +34,7 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 ## 📢 As Seen On
 
-<p> <a href="https://www.issuewire.com/cypriot-entrepreneur-and-author-andreas-christodoulou-shines-onaglobalstage-1776193546331982">IssueWire</a>IssueWire </p>
+<p> <a href="https://www.issuewire.com/cypriot-entrepreneur-and-author-andreas-christodoulou-shines-onaglobalstage-1776193546331982">IssueWire</a> </p>
 
 <p> <a href="https://menafn.com/1107031728/Cypriot-Entrepreneur-And-Author-Andreas-Christodoulou-Shines-On-A-Global-Stage">MENAFN</a> </p>
 
