@@ -32,6 +32,12 @@ It's been a long, crazy ride. Let's keep in touch! :)
 <p>⚡ Fun Fact: I am me and I am free</p>
 <p>📧 If you want to say hi, you can reach me at https://m.me/andreascyfan</p>
 
+## 🎖️ Certifications
+
+<p> <a href="https://isni.org/isni/000000052961680X">ISNI Certified (International Standard Name Identifier - ISO 27729 / ISNI International Agency, Jan 2026)</a> <p>
+<p> <a href="https://www.google.com/partners/#i_profile;idtf=118415746933417749928;">Google Ads (Former AdWords) Certified (Google Partners, Oct 2014)</a> <p>
+<p> <a href="https://www.scoop.it/u/official-andreascy">Scoop.it Top Rated "Historical" Curator (Scoop.it, Jan 2014)</a> <p>
+
 ## 📢 As Seen On
 
 <p> <a href="https://www.issuewire.com/cypriot-entrepreneur-and-author-andreas-christodoulou-shines-onaglobalstage-1776193546331982">IssueWire</a> </p>
