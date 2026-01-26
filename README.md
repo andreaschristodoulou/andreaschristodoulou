@@ -32,6 +32,26 @@ It's been a long, crazy ride. Let's keep in touch! :)
 <p>⚡ Fun Fact: I am me and I am free</p>
 <p>📧 If you want to say hi, you can reach me at https://m.me/andreascyfan</p>
 
+## 📢 As Seen On
+
+<p> <a href="https://www.issuewire.com/cypriot-entrepreneur-and-author-andreas-christodoulou-shines-onaglobalstage-1776193546331982">IssueWire</a>IssueWire </p>
+
+<p> <a href="https://menafn.com/1107031728/Cypriot-Entrepreneur-And-Author-Andreas-Christodoulou-Shines-On-A-Global-Stage">MENAFN</a> </p>
+
+<p> <a href="https://theinscribermag.com/belgium-based-entrepreneur-andreas-christodoulou-attains-global-recognition">INSCMagazine</a> </p>
+
+<p> <a href="https://news24hours.in/2025/12/12/cypriot-entrepreneur-andreas-christodoulou-a-new-wave-of-biz-influence-from-belgium">News24hours</a> </p>
+
+<p> <a href="https://news24hours.medium.com/cypriot-entrepreneur-andreas-christodoulou-sparks-a-modern-business-shift-in-belgium-884d56ccc511">News24hours / Medium</a> </p>
+
+<p> <a href="https://ithy.com/article/andreascy-digital-entrepreneur-profile-xx6rp94v7j">Ithy</a> </p>
+
+<p> <a href="https://www.imdb.com/name/nm15328155">IMDb</a> </p>
+
+<p> <a href="https://andreascy.wikibase.cloud">Wikibase Cloud</a> </p>
+
+<p> <a href="https://grokipedia.com/page/andreas-christodoulou">Grokipedia</a> </p>
+
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
