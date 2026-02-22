@@ -54,6 +54,8 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 <p> <a href="https://ithy.com/article/andreascy-digital-entrepreneur-profile-xx6rp94v7j">Ithy</a> </p>
 
+<p> <a href="https://manus.im/share/file/9fa664a3-c6eb-4a3c-99e7-1ad85831fba5">Manus (By Meta)</a> </p>
+
 <p> <a href="https://www.imdb.com/name/nm15328155">IMDb</a> </p>
 
 <p> <a href="https://andreascy.wikibase.cloud">Wikibase Cloud</a> </p>
