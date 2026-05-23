@@ -52,6 +52,10 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 <p> <a href="https://indiehunt.io/launches/project-andreas-christodoulou">IndieHunt</a> </p>
 
+<p> <a href="https://makerhunt.io/launches/project-andreas-christodoulou">MakerHunt</a> </p>
+
+<p> <a href="https://sidehunt.io/launches/project-andreas-christodoulou">SideHunt</a> </p>
+
 <p> <a href="https://ithy.com/article/andreascy-digital-entrepreneur-profile-xx6rp94v7j">Ithy</a> </p>
 
 <p> <a href="https://manus.im/share/file/9fa664a3-c6eb-4a3c-99e7-1ad85831fba5">Manus (By Meta)</a> </p>
