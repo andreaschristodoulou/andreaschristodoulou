@@ -50,6 +50,8 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 <p> <a href="https://news24hours.medium.com/cypriot-entrepreneur-andreas-christodoulou-sparks-a-modern-business-shift-in-belgium-884d56ccc511">News24hours / Medium</a> </p>
 
+<p> <a href="https://auraplusplus.com/launches/andreas-christodoulou">Aura++</a> </p>
+
 <p> <a href="https://indiehunt.io/launches/project-andreas-christodoulou">IndieHunt</a> </p>
 
 <p> <a href="https://makerhunt.io/launches/project-andreas-christodoulou">MakerHunt</a> </p>
