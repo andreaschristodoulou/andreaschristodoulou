@@ -44,8 +44,6 @@ It's been a long, crazy ride. Let's keep in touch! :)
 
 <p> <a href="https://menafn.com/1107031728/Cypriot-Entrepreneur-And-Author-Andreas-Christodoulou-Shines-On-A-Global-Stage">MENAFN</a> </p>
 
-<p> <a href="https://theinscribermag.com/belgium-based-entrepreneur-andreas-christodoulou-attains-global-recognition">INSCMagazine</a> </p>
-
 <p> <a href="https://news24hours.in/2025/12/12/cypriot-entrepreneur-andreas-christodoulou-a-new-wave-of-biz-influence-from-belgium">News24hours</a> </p>
 
 <p> <a href="https://news24hours.medium.com/cypriot-entrepreneur-andreas-christodoulou-sparks-a-modern-business-shift-in-belgium-884d56ccc511">News24hours / Medium</a> </p>
